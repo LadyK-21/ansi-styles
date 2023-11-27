@@ -139,8 +139,8 @@ The following color spaces are supported:
 
 - `rgb`
 - `hex`
+- `ansi16`
 - `ansi256`
-- `ansi`
 
 To use these, call the associated conversion function with the intended output, for example:
 
